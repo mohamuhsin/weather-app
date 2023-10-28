@@ -1,6 +1,5 @@
 # Weather App
 
-
 **Project 4: Weather App**
 
 *Description*: Create a simple weather application that allows users to enter a city and get the current weather conditions.
@@ -16,3 +15,30 @@
 8. Make sure you style your App
 
 **CSS code**
+
+```
+/* WeatherApp.css */
+.weather-app {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+```
