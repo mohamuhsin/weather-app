@@ -1,6 +1,6 @@
 # Weather App
 
-**Project 4: Weather App**
+**Project: Weather App**
 
 *Description*: Create a simple weather application that allows users to enter a city and get the current weather conditions.
 
